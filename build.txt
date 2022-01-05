@@ -1,0 +1,9 @@
+displayName = Sus mod (alpha)
+author = @The Pyro#4444
+version = 1.02
+homepage = https://discord.gg/cr6ybMHQJW
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
